@@ -1,2 +1,2 @@
 # datapacks
-Datapacks of Templex
+Datapacks of Templex(Modified for Maneki-Neko MC)
